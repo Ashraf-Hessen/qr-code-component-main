@@ -11,8 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -36,4 +34,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Frontend Mentor - [@Ashraf-Hessen](https://www.frontendmentor.io/profile/Ashraf-Hessen)
-- Twitter - [@radientaxios](https://www.twitter.com/radientaxios)
+- Twitter - [@RadientAxis](https://www.twitter.com/RadientAxis)
